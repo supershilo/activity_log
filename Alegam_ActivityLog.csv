@@ -1,0 +1,288 @@
+Date,Time,Activity,How I feel,Duration (mins),Value
+10/09/2023,5:45:00 am,Getting out of the bed,dazed,15,Low
+10/09/2023,6:00:00 am,Taking a bath,tired,15,Medium
+10/09/2023,6:15:00 am,Getting ready for school,dazed,15,Medium
+10/09/2023,6:30:00 am,Breakfast,dazed,15,High
+10/09/2023,6:45:00 am,Commuting on my way to school,worried,30,Medium
+10/09/2023,7:30:00 am,IT365 class ,good,150,High
+10/09/2023,10:00:00 am,Lunch,good,30,Medium
+10/09/2023,10:30:00 am,Went to the Library,tired,60,High
+10/09/2023,11:30:00 am,Taking a nap,good,15,Low
+10/09/2023,11:45:00 am,Talking with my friends,happy,75,Low
+10/09/2023,1:00:00 pm,CSIT321 class ,good,120,High
+10/09/2023,3:00:00 pm,Traveling home from school,tired + hungry,15,Medium
+10/09/2023,3:15:00 pm,Scrolling through my phone,sleepy,120,Low
+10/09/2023,5:15:00 pm,Rest and Relaxation,happy,60,Low
+10/09/2023,6:15:00 pm,Family Time + Playing with the doggos,happy,60,Medium
+10/09/2023,7:15:00 pm,Dinner,good,15,Medium
+10/09/2023,7:30:00 pm,Washing the Dishes,good,15,Low
+10/09/2023,7:45:00 pm,Doing my assignment,focused,180,High
+10/09/2023,10:45:00 pm,Scrolling through my phone,sleepy,30,Low
+10/09/2023,11:15:00 pm,Sleep,good,465,High
+10/10/2023,7:00:00 am,Getting out of the bed,dazed,15,Low
+10/10/2023,7:15:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/10/2023,7:30:00 am,CSIT327 class ,sleepy,150,High
+10/10/2023,10:00:00 am,Eating breakfast,somewhat awake ,15,High
+10/10/2023,10:15:00 am,Preparing for the next class,good,15,Medium
+10/10/2023,10:30:00 am,IT317 class,awake,90,High
+10/10/2023,12:15:00 pm,Lunch break,tired,15,Medium
+10/10/2023,12:30:00 pm,Scrolling through my phone,relaxed,45,Medium
+10/10/2023,1:15:00 pm,Doing my assignment,stressed,75,Medium
+10/10/2023,2:30:00 pm,Taking a bath,refreshed,15,Medium
+10/10/2023,2:45:00 pm,Getting ready for school,good,30,Low
+10/10/2023,3:15:00 pm,Commuting on my way to school,relaxed,15,Medium
+10/10/2023,3:30:00 pm,CSIT340 class,anxious,150,High
+10/10/2023,6:15:00 pm,Traveling home from school,tired + hungry,30,Medium
+10/10/2023,7:15:00 pm,Dinner,good,15,Medium
+10/10/2023,7:30:00 pm,Rest and Relaxation,relaxed,210,Low
+10/10/2023,11:00:00 pm,Sleep,good,510,High
+10/11/2023,7:30:00 am,Getting out of the bed,dazed,15,Low
+10/11/2023,7:45:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/11/2023,8:00:00 am,Breakfast,good,15,High
+10/11/2023,8:15:00 am,Watching TV,sleepy,60,Low
+10/11/2023,9:15:00 am,Scrolling through my phone,good,60,Low
+10/11/2023,10:15:00 am,Doing my laundry,good,45,Medium
+10/11/2023,11:00:00 am,Washing the dishes,good,25,Low
+10/11/2023,12:15:00 pm,Lunch ,good,15,Medium
+10/11/2023,12:30:00 pm,Rest and Relaxation,relaxed,90,Low
+10/11/2023,2:00:00 pm,Doing Laundry,good,30,Low
+10/11/2023,2:30:00 pm,Rest and Relaxation,relaxed,210,Low
+10/11/2023,6:00:00 pm,Doing my assignment,good,90,Medium
+10/11/2023,7:30:00 pm,Dinner,good,15,Medium
+10/11/2023,7:45:00 pm,Family Time + Playing with the doggos,good,60,Medium
+10/11/2023,8:45:00 pm,Scrolling through my phone,good,135,Low
+10/11/2023,11:00:00 pm,Sleep,good,480,Low
+10/12/2023,7:00:00 am,Getting out of the bed,dazed,15,Low
+10/12/2023,7:15:00 am,Preparing for the online class,dazed,15,Low
+10/12/2023,7:30:00 am,CSIT327 online class (lecture),awake,150,High
+10/12/2023,10:00:00 am,Preparing for the next class,good,30,High
+10/12/2023,10:30:00 am,IT317 class ,anxious,90,High
+10/12/2023,12:15:00 pm,Lunch break,exhausted,15,Medium
+10/12/2023,12:30:00 pm,Scrolling through my phone,relaxed,90,Low
+10/12/2023,2:00:00 pm,Doing my assignment,good,30,Low
+10/12/2023,2:30:00 pm,Taking a bath,refreshed,15,Low
+10/12/2023,2:45:00 pm,Getting ready for school,good,30,Low
+10/12/2023,3:15:00 pm,Commuting on my way to school,relaxed,15,Medium
+10/12/2023,3:30:00 pm,CSIT340 class,good,150,High
+10/12/2023,6:15:00 pm,Traveling home from school,tired + hungry,30,Medium
+10/12/2023,6:45:00 pm,Taking a nap,good,45,Low
+10/12/2023,7:30:00 pm,Dinner,good,15,Medium
+10/12/2023,7:45:00 pm,Household chores,good,15,Low
+10/12/2023,8:00:00 pm,Rest and Relaxation,relaxed,210,Low
+10/12/2023,11:30:00 am,Sleep,good,510,High
+10/13/2023,8:15:00 am,Getting out of the bed,dazed,15,Low
+10/13/2023,8:30:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/13/2023,8:45:00 am,Breakfast,good,15,Medium
+10/13/2023,9:00:00 am,Checking the Teams and Messenger,good,15,Low
+10/13/2023,9:15:00 am,Scrolling through my phone,relaxed,60,Low
+10/13/2023,10:15:00 am,Doing my assignment,good,90,High
+10/13/2023,11:45:00 am,Lunch,good,15,Low
+10/13/2023,12:00:00 pm,Bath,good,15,Low
+10/13/2023,12:15:00 pm,Getting ready for school,good,30,Low
+10/13/2023,12:45:00 pm,Commuting on my way to school,worried,15,Medium
+10/13/2023,1:00:00 pm,CSIT321 class,good,120,High
+10/13/2023,3:00:00 pm,Traveling home from school,tired ,30,Low
+10/13/2023,3:30:00 pm,Taking a nap,good,45,Low
+10/13/2023,4:15:00 pm,Scrolling through my phone,relaxed,60,Low
+10/13/2023,5:15:00 pm,Eating snacks,good ,15,Low
+10/13/2023,5:30:00 pm,Watching TV,good,30,Low
+10/13/2023,6:00:00 pm,Doing my assignment,confused,90,Medium
+10/13/2023,7:30:00 pm,Dinner,good,15,Low
+10/13/2023,7:45:00 pm,Doing my assignment,confused,60,Medium
+10/13/2023,8:45:00 pm,Studying ,stuck,60,High
+10/13/2023,9:45:00 pm,Rest and Relaxation,good,120,Low
+10/13/2023,11:45:00 pm,Sleep,good,480,Low
+10/14/2023,7:45:00 am,Getting out of the bed,dazed,15,Low
+10/14/2023,8:00:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/14/2023,8:15:00 am,Breakfast,good,15,High
+10/14/2023,8:30:00 am,Preparing for the online class,nervous,30,Low
+10/14/2023,9:00:00 am,FL033 class,nervous,90,High
+10/14/2023,10:30:00 am,Scrolling through my phone,relaxed,60,Low
+10/14/2023,11:30:00 am,Washing the dishes,good ,20,Low
+10/14/2023,12:00:00 pm,Lunch,good,15,Medium
+10/14/2023,12:15:00 pm,Rest and Relaxation,good,180,Low
+10/14/2023,3:15:00 pm,Doing my assignment,confused,60,Medium
+10/14/2023,4:15:00 pm,Break  ,good,30,Low
+10/14/2023,4:45:00 pm,Doing my assignment,good,90,Medium
+10/14/2023,6:15:00 pm,Family Time + Playing with the doggos,happy,60,Low
+10/14/2023,7:15:00 pm,Dinner,good,15,Low
+10/14/2023,7:30:00 pm,Household chores,good,30,Low
+10/14/2023,8:00:00 pm,Scrolling through my phone,good,30,Low
+10/14/2023,8:30:00 pm,Doing my assignment,confused,180,Medium
+10/14/2023,11:00:00 pm,Scrolling through my phone,sleepy,30,Low
+10/14/2023,11:30:00 pm,Sleep,good,510,Low
+10/15/2023,8:00:00 am,Getting out of the bed,dazed,30,Low
+10/15/2023,8:30:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/15/2023,8:45:00 am,Scrolling through my phone,good,15,Low
+10/15/2023,9:00:00 am,Went out ,good,15,Low
+10/15/2023,9:15:00 am,Breakfast,good,15,High
+10/15/2023,9:30:00 am,Doing Laundry,tired,60,Medium
+10/15/2023,10:30:00 am,Rest,good,30,Low
+10/15/2023,11:00:00 am,Doing my assignment,good,60,Medium
+10/15/2023,12:00:00 pm,Lunch,good,15,Medium
+10/15/2023,12:15:00 pm,Watching TV,good,165,Low
+10/15/2023,3:00:00 pm,Scrolling through my phone,good,15,Low
+10/15/2023,3:15:00 pm,Doing my assignment,stressed,180,High
+10/15/2023,6:15:00 pm,Rest and Relaxation,good,60,Medium
+10/15/2023,7:15:00 pm,Dinner,good,15,Medium
+10/15/2023,7:30:00 pm,Washing the dishes,good,30,Low
+10/15/2023,8:00:00 pm,Scrolling through my phone,good,60,Low
+10/15/2023,9:00:00 pm,Studying,tired,90,High
+10/15/2023,10:30:00 pm,Doing my assignment,tired,180,High
+10/15/2023,1:30:00 am,Sleep,good,240,High
+10/16/2023,5:30:00 am,Getting out of the bed,sleepy,15,Low
+10/16/2023,5:45:00 am,Taking a bath,tired,30,High
+10/16/2023,6:15:00 am,Getting ready for school,dazed,15,Low
+10/16/2023,6:30:00 am,Breakfast,dazed,15,High
+10/16/2023,6:45:00 am,Commuting on my way to school,worried,15,Medium
+10/16/2023,7:15:00 am,Preparing for the class,worried,15,High
+10/16/2023,7:30:00 am,IT365 class ,good,150,High
+10/16/2023,10:15:00 am,Lunch,good,30,Medium
+10/16/2023,10:45:00 am,Went to the Library ,tired,60,High
+10/16/2023,11:45:00 am,Taking a nap,good,15,Low
+10/16/2023,12:00:00 pm,Studying,worried,60,High
+10/16/2023,1:00:00 pm,CSIT321 class,good,120,High
+10/16/2023,3:00:00 pm,Traveling home from school,tired + hungry,15,Low
+10/16/2023,3:15:00 pm,Eating snacks,good,15,Low
+10/16/2023,3:30:00 pm,Scrolling through my phone,sleepy,30,Low
+10/16/2023,4:00:00 pm,Rest and Relaxation,good,60,Low
+10/16/2023,5:00:00 pm,Family Time + Playing with the doggos,good,120,Medium
+10/16/2023,7:00:00 pm,Went out,good,15,Low
+10/16/2023,7:15:00 pm,Dinner,good,15,Medium
+10/16/2023,7:30:00 pm,Washing the dishes,good,30,Low
+10/16/2023,8:00:00 pm,Studying,worried,120,High
+10/16/2023,10:00:00 pm,Scrolling through my phone,good,30,Low
+10/16/2023,10:30:00 pm,Sleep,good,480,High
+10/17/2023,6:30:00 am,Getting out of the bed,dazed,15,Low
+10/17/2023,6:45:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/17/2023,7:00:00 am,Studying,worried,30,High
+10/17/2023,7:30:00 am,CSIT327 class,good,150,High
+10/17/2023,10:00:00 am,Breakfast,good,15,High
+10/17/2023,10:15:00 am,Scrolling through my phone,good,15,Low
+10/17/2023,10:30:00 am,IT317 class ,good,90,High
+10/17/2023,12:15:00 pm,Lunch break,exhausted,15,Medium
+10/17/2023,12:30:00 pm,Washing the dishes,good,30,Low
+10/17/2023,1:00:00 pm,Rest and Relaxation,good,120,Low
+10/17/2023,3:00:00 pm,Watching TV,good,120,Low
+10/17/2023,5:00:00 pm,Eating snacks,good,15,Low
+10/17/2023,5:15:00 pm,Studying,good,120,High
+10/17/2023,7:15:00 pm,Dinner,good,15,Medium
+10/17/2023,7:30:00 pm,Family Time + Playing with the doggos,good,120,Medium
+10/17/2023,9:30:00 pm,Studying,good,120,High
+10/17/2023,11:30:00 pm,Sleep,good,480,High
+10/18/2023,7:30:00 am,Getting out of the bed,good,30,Low
+10/18/2023,8:00:00 am,Taking a bath,good,15,Low
+10/18/2023,8:15:00 am,Getting ready for school,good,15,Low
+10/18/2023,8:30:00 am,Breakfast,good,15,High
+10/18/2023,8:45:00 am,Commuting on my way to school,relaxed,10,Medium
+10/18/2023,9:00:00 am,FL033 class ,good,60,High
+10/18/2023,10:00:00 am,Traveling home from school,tired + hungry,15,Low
+10/18/2023,10:15:00 am,Eating snacks,good,15,Low
+10/18/2023,10:30:00 am,Scrolling through my phone,good,30,Low
+10/18/2023,11:00:00 am,Lunch,good,15,Medium
+10/18/2023,11:15:00 am,Washing the dishes,good,15,Low
+10/18/2023,11:30:00 am,Rest and Relaxation,good,180,Low
+10/18/2023,2:30:00 pm,Went out,good,90,Low
+10/18/2023,4:00:00 pm,Scrolling through my phone,good,60,Low
+10/18/2023,5:00:00 pm,Studying,good,120,Low
+10/18/2023,7:00:00 pm,Dinner,good,15,Medium
+10/18/2023,7:15:00 pm,Family Time + Playing with the doggos,happy,120,Medium
+10/18/2023,9:15:00 pm,Studying,good,120,High
+10/18/2023,11:15:00 pm,Sleep,good,510,High
+10/19/2023,7:45:00 am,Getting out of the bed,dazed,15,Low
+10/19/2023,8:00:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/19/2023,8:15:00 am,Breakfast,good,15,High
+10/19/2023,8:30:00 am,Scrolling through my phone,good,60,Low
+10/19/2023,9:30:00 am,Studying,worried,60,High
+10/19/2023,10:30:00 am,IT317 class,good,90,Low
+10/19/2023,12:00:00 pm,Lunch break,exhausted,30,Medium
+10/19/2023,12:30:00 pm,Taking a bath,refreshed,15,Medium
+10/19/2023,12:45:00 pm,Getting ready for school,good,30,Medium
+10/19/2023,1:15:00 pm,Scrolling through my phone,good,30,Low
+10/19/2023,1:45:00 pm,Studying,stressed,90,High
+10/19/2023,3:15:00 pm,Commuting on my way to school,good,15,Medium
+10/19/2023,3:30:00 pm,CSIT340 class,good,150,High
+10/19/2023,6:15:00 pm,Traveling home from school,tired + hungry,30,Medium
+10/19/2023,6:45:00 pm,Taking a nap,good,45,Low
+10/19/2023,7:30:00 pm,Dinner,good,15,Medium
+10/19/2023,7:45:00 pm,Washing the dishes,good,15,Low
+10/19/2023,8:00:00 pm,Watching TV,happy,210,Low
+10/19/2023,11:30:00 pm,Studying,sleepy,60,High
+10/19/2023,12:30:00 am,Sleep,good,270,High
+10/20/2023,5:00:00 am,Getting out of the bed,dazed,15,Low
+10/20/2023,5:15:00 am,Taking a bath,sleepy,15,Low
+10/20/2023,5:30:00 am,Studying,worried,75,High
+10/20/2023,6:45:00 am,Traveling to School,tired,15,Medium
+10/20/2023,7:00:00 am,Studying,good,90,High
+10/20/2023,8:30:00 am,IT365 class ,good,150,High
+10/20/2023,10:00:00 am,Talking with my friends,good,60,Low
+10/20/2023,11:00:00 am,Eating snacks ,good,60,Low
+10/20/2023,12:00:00 pm,Went out,good,15,Low
+10/20/2023,12:15:00 pm,Lunch,happy,60,Low
+10/20/2023,1:15:00 pm,Visiting the Public Library,good,105,Low
+10/20/2023,3:00:00 pm,Waiting for jeepneys,tired,30,Low
+10/20/2023,3:30:00 pm,Traveling home,tired,30,Low
+10/20/2023,4:00:00 pm,Eating snacks,good,15,Low
+10/20/2023,4:15:00 pm,Taking a bath,refreshed,15,Low
+10/20/2023,4:30:00 am,Scrolling through my phone,good,60,Low
+10/20/2023,5:30:00 pm,Taking a nap,good,60,Low
+10/20/2023,6:30:00 pm,Family Time + Playing with the doggos,happy,60,Low
+10/20/2023,7:30:00 pm,Dinner,good,15,Medium
+10/20/2023,7:45:00 pm,Washing the dishes,good,30,Low
+10/20/2023,8:15:00 pm,Watching TV,good,180,Low
+10/20/2023,11:15:00 pm,Scrolling through my phone,sleepy,60,Low
+10/20/2023,12:45:00 am,Sleep,good,465,High
+10/21/2023,8:30:00 am,Getting out of the bed,good,15,Low
+10/21/2023,8:45:00 am,Breakfast,good,15,Low
+10/21/2023,9:00:00 am,Watching TV,good,30,Low
+10/21/2023,9:30:00 am,Scrolling through my phone,good,90,Low
+10/21/2023,11:00:00 am,Ordering food,good,30,Low
+10/21/2023,11:30:00 am,Lunch,good,15,High
+10/21/2023,11:45:00 am,Watching TV,good,240,Low
+10/21/2023,3:45:00 pm,Scrolling through my phone,good,30,Low
+10/21/2023,4:15:00 pm,Household chores,good,120,Low
+10/21/2023,6:15:00 pm,Rest and Relaxation,good,60,Low
+10/21/2023,7:15:00 pm,Dinner,good,15,Medium
+10/21/2023,7:30:00 pm,Doing assignment,good,120,High
+10/21/2023,9:30:00 pm,Scrolling through my phone,good,30,Low
+10/21/2023,10:00:00 pm,Doing assignment,good,60,High
+10/21/2023,11:00:00 pm,Sleep,good,480,High
+10/22/2023,8:00:00 am,Getting out of the bed,dazed,30,Low
+10/22/2023,8:30:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/22/2023,8:45:00 am,Scrolling through my phone,good,15,Low
+10/22/2023,9:00:00 am,Went out ,good,15,Low
+10/22/2023,9:15:00 am,Breakfast,good,15,High
+10/22/2023,9:30:00 am,Doing Laundry,tired,60,Medium
+10/22/2023,10:30:00 am,Rest,good,30,Low
+10/22/2023,11:00:00 am,Doing my assignment,good,60,Medium
+10/22/2023,12:00:00 pm,Lunch,good,15,Medium
+10/22/2023,12:15:00 pm,Watching TV,good,165,Low
+10/22/2023,3:00:00 pm,Scrolling through my phone,good,15,Low
+10/22/2023,3:15:00 pm,Doing my assignment,stressed,180,High
+10/22/2023,6:15:00 pm,Rest and Relaxation,good,60,Medium
+10/22/2023,7:15:00 pm,Dinner,good,15,Medium
+10/22/2023,7:30:00 pm,Washing the dishes,good,30,Low
+10/22/2023,8:00:00 pm,Scrolling through my phone,good,60,Low
+10/22/2023,9:00:00 pm,Doing my assignment,tired,120,High
+10/22/2023,11:00:00 pm,Sleep,good,480,High
+10/23/2023,6:30:00 am,Getting out of the bed,dazed,15,Low
+10/23/2023,6:45:00 am,"Morning Rituals (Washing my face, CR etc)",good,15,Low
+10/23/2023,7:00:00 am,Taking a bath,tired,15,High
+10/23/2023,7:15:00 pm,Getting ready for school,dazed,15,Low
+10/23/2023,7:30:00 pm,Breakfast,dazed,15,High
+10/23/2023,7:45:00 pm,Commuting on my way to school,worried,15,Medium
+10/23/2023,8:00:00 am,IT365 class ,good,120,High
+10/23/2023,10:00:00 am,Lunch,good,30,Medium
+10/23/2023,10:30:00 am,Doing my assignment,good,60,High
+10/23/2023,11:30:00 am,Talking with my friends,good,90,Low
+10/23/2023,1:00:00 pm,CSIT321 class,good,120,High
+10/23/2023,3:00:00 pm,Traveling home from school,tired,15,Low
+10/23/2023,3:15:00 pm,Went out ,good,60,Low
+10/23/2023,4:15:00 pm,Eating snacks,good,30,Low
+10/23/2023,4:45:00 pm,Family Time + Playing with the doggos,good,60,Medium
+10/23/2023,5:45:00 pm,Rest and Relaxation,good,120,Low
+10/23/2023,7:45:00 pm,Dinner,good,15,Medium
+10/23/2023,8:00:00 pm,Washing the dishes,good,30,Low
+10/23/2023,8:30:00 pm,Doing my assignment,worried,150,High
+10/23/2023,11:00:00 pm,Scrolling through my phone,good,30,Low
+10/23/2023,11:30:00 pm,Sleep,good,480,High
